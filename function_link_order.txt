@@ -1,0 +1,4 @@
+entry
+GetProcAddressWithHash
+load_kernel
+load_msvc
